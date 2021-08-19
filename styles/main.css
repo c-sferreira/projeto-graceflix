@@ -75,7 +75,6 @@ header nav a:hover{
     padding: 15px 30px; /*Cima-Baixo  Esqueda-Direita*/
     margin-right: 12px;
     font-size: 14px;
-
     cursor: pointer;
     transition: .3s ease all;
 }
